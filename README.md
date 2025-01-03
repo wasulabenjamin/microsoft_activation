@@ -19,6 +19,7 @@
 <p align="center">
 	<br> <br>
 	<a href="https://app.codacy.com/gh/wasulabenjamin/microsoft_activation/dashboard">
+		<img src="https://app.codacy.com/project/badge/Grade/f365ff2775134f2687db3839176d812a"/>
 	</a>
     &nbsp;
 	<a href="https://github.com/wasulabenjamin/microsoft_activation/graphs/contributors">
@@ -82,10 +83,10 @@ Have a bug or a feature request? **Here is to how you can help:**
 
 # Contributing
 
-This is an open source example template, therefore developers are encouraged to contribute and help maintain the project 
-throughout its life cycle. Any contributions will be highly appreciated.
+This project open source, therefore developers are encouraged to contribute and help maintain the project throughout its 
+life cycle. Any contributions will be highly appreciated.
 
-Looking to contribute something to this template?
+Looking to contribute something to this project?
 
 Please read through the [contributing guidelines][contributing_guidelines], included are directions for opening issues, 
 coding standards, and notes on development.
